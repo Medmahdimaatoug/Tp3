@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+    font-family: Impact;
+  
+    }
+        legend{
+      background-color: blue;
+      color: white;
+      font-style: italic;
+      font-weight: bold;
+        }
+input{
+         background-color: lightblue;
+        border: 3px solid black;
+       
+                }
+button {
+    background-color: lightblue;
+    border: 3px solid black;
+       
+         
+         }
+textarea {
+        background-color: lightblue;
+        border: 3px solid black;
+            
+                    
+        }
